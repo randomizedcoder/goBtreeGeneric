@@ -12,3 +12,5 @@ type Descriptions struct {
 	Time        time.Time
 }
 ```
+
+Another example of a double nested sync map
